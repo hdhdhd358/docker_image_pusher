@@ -6,3 +6,5 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 cloudnas/clouddrive2-unstable
 portainer/portainer-ce:latest
+--platform=linux/arm portainer/portainer-ce:latest
+--platform=linux/arm64 portainer/portainer-ce:latest
