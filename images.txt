@@ -10,3 +10,4 @@ portainer/portainer-ce:latest
 --platform=linux/arm64 portainer/portainer-ce:latest
 --platform=linux/arm64 cloudnas/clouddrive2-unstable
 --platform=linux/arm cloudnas/clouddrive2-unstable
+--platform=linux/arm xhofe/alist:latest
