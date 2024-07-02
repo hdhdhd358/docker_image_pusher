@@ -3,12 +3,16 @@ nginx
 k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 xhofe/alist:latest
 #支持指定架构
+xiaoyaliu/alist
 --platform=linux/arm64 xiaoyaliu/alist
 cloudnas/clouddrive2-unstable
 portainer/portainer-ce:latest
+leolitaly/sweet-cloud:latest
 --platform=linux/arm portainer/portainer-ce:latest
 --platform=linux/arm64 portainer/portainer-ce:latest
 --platform=linux/arm64 cloudnas/clouddrive2-unstable
 --platform=linux/arm cloudnas/clouddrive2-unstable
 --platform=linux/arm xhofe/alist:latest
 --platform=linux/arm leolitaly/sweet-cloud:latest
+--platform=linux/arm xiaoyaliu/alist
+--platform=linux/arm64 leolitaly/sweet-cloud:latest
