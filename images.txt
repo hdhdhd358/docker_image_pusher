@@ -17,9 +17,5 @@ leolitaly/sweet-cloud:latest
 --platform=linux/arm xiaoyaliu/alist
 --platform=linux/arm64 leolitaly/sweet-cloud:latest
 buddyfly/openwrt-aarch64:latest
-buddyfly/openwrt-aarch:latest
---platform=linux/arm buddyfly/openwrt-aarch64:latest
---platform=linux/arm64 buddyfly/openwrt-aarch64:latest
-sulinggg/openwrt:latest
---platform=linux/arm sulinggg/openwrt:latest
---platform=linux/arm64 sulinggg/openwrt:latest
+sulinggg/openwrt:a
+sulinggg/openwrt-mini:armv7
