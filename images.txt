@@ -19,4 +19,6 @@ leolitaly/sweet-cloud:latest
 buddyfly/openwrt-aarch64:latest
 --platform=linux/arm sulinggg/openwrt:armv7
 --platform=linux/arm sulinggg/openwrt-mini:armv7
+--platform=linux/arm sulinggg/openwrt-mini:armv7
 sulinggg/openwrt-rpi
+--platform=linux/arm sulinggg/openwrt:armv8
