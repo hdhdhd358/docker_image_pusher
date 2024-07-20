@@ -1,4 +1,3 @@
-7
 nginx
 #支持私库
 k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
@@ -20,4 +19,5 @@ leolitaly/sweet-cloud:latest
 buddyfly/openwrt-aarch64:latest
 --platform=linux/arm sulinggg/openwrt:armv7
 --platform=linux/arm sulinggg/openwrt-mini:armv7
---platform=linux/arm sulinggg/openwrt:armv8
+--platform=linux/arm64 sulinggg/openwrt:armv8
+sulinggg/openwrt
